@@ -11,8 +11,8 @@ A Chatbot that recommends Lifelong Learning Courses based on the Interests of th
 
 | 이름 | 전공 | 이메일 |
 | --- | --- | --- |
-| 손채연 | 경제학과, 컴퓨터학과 복수전공 | email url |
-| 최준희 | 통계학과, HCI사이언스전공 복수전공 | mailto:jenny876517@gmail.com |
+|   | 경제학과, 컴퓨터학과 복수전공 | email url |
+|   | 통계학과, HCI사이언스전공 복수전공 | mailto:jenny876517@gmail.com |
 
 ## Google Drive
 
